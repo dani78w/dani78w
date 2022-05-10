@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dani78w
+- 👀 I’m interested in app development and photography skills 
+- 🌱 I’m currently learning java , c , css , html , photoshop
+- 💞️ I’m looking to collaborate on what ever interesting 
+- 📫 How to reach me at my instagram @dani.7f
