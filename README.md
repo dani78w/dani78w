@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @dani78w
-- 👀 I’m interested in app development and photography skills 
-- 🌱 I’m currently learning java , c , css , html , photoshop
-- 💞️ I’m looking to collaborate on what ever interesting 
+Graduado en Desarrollo de aplicaciones multiplataforma + Bigdata 
+
+- Java , Kotlin , Python 
+- Desarrollo Android Jetpack Compose y XML
+
+- MySql , PlSql , NoSql , Oracle , Mongo db
+- Html ,XML , xsd , dtd , css , xsl , xpath , JS
+- Powershell , Bash 
+
+Actualmente aprendiendo de forma autodidacta Flutter y Dart.
