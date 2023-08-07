@@ -2,4 +2,3 @@
 - 👀 I’m interested in app development and photography skills 
 - 🌱 I’m currently learning java , c , css , html , photoshop
 - 💞️ I’m looking to collaborate on what ever interesting 
-- 📫 Reach me at my instagram @dani.7f
