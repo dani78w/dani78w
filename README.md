@@ -10,4 +10,4 @@ Graduado en Desarrollo de aplicaciones multiplataforma + Bigdata
 
 Actualmente aprendiendo de forma autodidacta Flutter y Dart.
 
-# Porfolio web : https://dani78w.github.io/Flutterbuildedweb/#/
+# Portfolio web : https://dani78w.github.io/Flutterbuildedweb/#/
