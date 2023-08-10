@@ -3,7 +3,7 @@ Graduado en Desarrollo de aplicaciones multiplataforma + Bigdata
 
 - Java , Kotlin , Python 
 - Desarrollo Android Jetpack Compose y XML
-- Futter , Dart
+- Flutter , Dart
 
 - MySql , PlSql , NoSql , Oracle , Mongo db
 - Html ,XML , xsd , dtd , css , xsl , xpath , JS
