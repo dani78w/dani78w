@@ -9,4 +9,4 @@ Graduado en Desarrollo de aplicaciones multiplataforma + Bigdata
 - Html ,XML , xsd , dtd , css , xsl , xpath , JS
 - Powershell , Bash 
 
-# Portfolio web : https://dani78w.github.io/Flutterbuildedweb/#/
+# Portfolio web : http://danielarribas.work:5500
